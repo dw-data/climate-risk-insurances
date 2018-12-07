@@ -1,6 +1,6 @@
 # Climate risk insurances: Are they worth the money?
 
-**Story**: You can read the full story [here]()
+**Story**: You can read the full story [here](https://www.dw.com/en/climate-risk-insuring-against-the-inevitable/a-46615364)
 
 **Idea, research and writing:** [Ruby Russell](https://twitter.com/rubyjrussell)
 
