@@ -84,3 +84,8 @@ Since - especially for the payouts and damage cost - the difference between both
 
 ![](DWData-ClimateRiskInsurance-NumberPayouts-NumberDisasters.png)
 ![](DWData-EN-ClimateRiskInsurance-Damage-vs-Payout.png)
+
+## Global Trends
+
+![](DWData-DisastersbyCountry.png)
+![](DWData-ClimateRiskInsurance-DisasterTrend.png)
